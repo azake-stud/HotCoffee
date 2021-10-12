@@ -1,0 +1,41 @@
+.last{
+    margin-top: 43px;
+}
+.last__content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 43px;
+    background: #F7FAFC;
+}
+.last__inner{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 31px;
+}
+.last__date{
+    color: #718096;
+    font-size: 12px;
+    font-family: "Inter";
+}
+.last__link{
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: bold;
+}
+.last__title{
+    font-family: "Inter";
+    font-size: 40px;
+    color: #000000;
+    width: 308px;
+}
+
+.last__text{
+    width: 311px;
+    margin-top: 24px;
+    font-family: "Inter";
+    font-size: 16px;
+    color: #718096;
+}
+.last__info{
+    padding: 98px 66px 118px 63px;
+}

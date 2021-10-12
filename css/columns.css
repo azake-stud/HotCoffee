@@ -1,0 +1,36 @@
+.columns__content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 43px;
+}
+
+.columns__inner{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 22px;
+}
+.columns__date{
+    color: #718096;
+    font-size: 12px;
+    font-family: "Inter";
+}
+.columns__link{
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: bold;
+}
+.columns__title{
+    margin-top: 18px;
+    font-family: "Inter";
+    font-size: 20px;
+    color: #2D3748;
+}
+
+.columns__text{
+    width: 258px;
+    
+    margin-top: 15px;
+    font-family: "Inter";
+    font-size: 14px;
+    color: #718096;
+}

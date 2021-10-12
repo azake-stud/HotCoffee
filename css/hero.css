@@ -1,0 +1,31 @@
+.hero__content{
+    display: flex;
+    justify-content: space-between;
+}
+.img__balloon{
+    margin-top: 70px;
+    margin-bottom: 74px;
+}
+.hero__info{
+    margin-top: 131px;
+    position: relative;
+    height: 146px;
+}
+.hero__title{
+    margin: 0;
+    margin-bottom: 19px;
+    font-family: "Inter";
+    font-size: 60px;
+}
+.hero__icon{
+    position: absolute;
+    top: 55px;
+    left: 185px; 
+}
+.hero__text{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: #4A5568;
+}
