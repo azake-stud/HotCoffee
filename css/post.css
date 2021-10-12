@@ -1,0 +1,35 @@
+.post__topic{
+    margin-top: 41px;
+}
+.post__header{
+    padding: 45px 0 40px 0;
+}
+.post__htop{
+    font-family: "Inter";
+    font-size: 25px;
+    max-width: 632px;
+}
+.post__hdown{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-family: "Inter";
+    font-size: 18px;
+    margin-top: 19px;
+}
+.post__ptopic{
+    font-family: "Inter";
+    font-size: 18px;
+    color: #718096;
+    width: 147px;
+}
+.text__content{
+    max-width: 765px;
+    font-family: "Inter";
+    font-size: 16px;
+    color: #718096;
+}
+.text__desc h3{
+    color: black;
+}
+    

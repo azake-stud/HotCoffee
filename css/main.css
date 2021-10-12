@@ -1,0 +1,34 @@
+.main__content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 39px;
+    margin-left: 52px;
+}
+.main__inner{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.main__date{
+    color: #718096;
+    font-size: 12px;
+    font-family: "Inter";
+}
+.main__link{
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: bold;
+}
+.main__title{
+    margin-top: 41px;
+    font-family: "Inter";
+    font-size: 30px;
+    color: #2D3748;
+}
+.main__text{
+    width: 403px;
+    margin-top: 27px;
+    font-family: "Inter";
+    font-size: 14px;
+    color: #718096;
+}
