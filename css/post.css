@@ -51,8 +51,9 @@
 }
 .top__icon{
     position: fixed;
-    bottom: 60px;
-    right: 200px;
-    
-    
+    bottom: 63px;
+    right: 150px;
+}
+.black__h{
+    color: black;
 }
