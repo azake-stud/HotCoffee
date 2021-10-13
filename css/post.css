@@ -1,9 +1,7 @@
 .post__topic{
     margin-top: 41px;
 }
-/* .post__text{
-    margin-top: 68px;
-} */
+
 .post__header{
     padding: 45px 0 40px 0;
 }
@@ -53,7 +51,11 @@
     position: fixed;
     bottom: 63px;
     right: 150px;
+    width: 41px;
 }
 .black__h{
     color: black;
+}
+.post__text{
+    margin-top: 37px;
 }
