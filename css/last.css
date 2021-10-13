@@ -39,3 +39,8 @@
 .last__info{
     padding: 98px 66px 118px 63px;
 }
+@media screen and (max-width: 1440px) {
+    .last__img{
+        display: none;
+    }
+}

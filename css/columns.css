@@ -2,7 +2,13 @@
     display: flex;
     justify-content: space-between;
     margin-top: 43px;
+    flex-wrap: wrap;
 }
+
+/* @media screen and (max-width: 1440px) {
+    .columns__content{
+    }
+} */
 
 .columns__inner{
     display: flex;

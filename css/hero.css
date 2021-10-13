@@ -2,6 +2,20 @@
     display: flex;
     justify-content: space-between;
 }
+@media screen and (max-width: 1440px) {
+    .hero__content{
+        flex-wrap: wrap;
+    }  
+    .hero__icon{
+        display: none;
+    }  
+    .hero__img{
+        max-width: 100%;
+        margin-top: 150px;
+        
+    }
+}
+
 .img__balloon{
     margin-top: 70px;
     margin-bottom: 74px;
