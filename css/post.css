@@ -1,6 +1,9 @@
 .post__topic{
     margin-top: 41px;
 }
+/* .post__text{
+    margin-top: 68px;
+} */
 .post__header{
     padding: 45px 0 40px 0;
 }
@@ -27,16 +30,29 @@
     max-width: 765px;
     font-family: "Inter";
     margin: 0 auto;
-    font-size: 16px;
-    color: #718096;
 }
 .text__desc h3{
     color: black;
 }
 .post__content{
-    text-align: center;
+    /* text-align: center; */
+    margin: 0 auto;
+    color: #2D3748;
+    margin-bottom: 20px;
     
 }
-.text__center{
-    text-align: center;
+.text__content{
+    font-size: 16px;
+    color: #718096;
+}
+
+.post__ptopic{
+    margin-left: 25px;
+}
+.top__icon{
+    position: fixed;
+    bottom: 140px;
+    right: 350px;
+    width: 80px;
+    
 }
