@@ -16,5 +16,12 @@
     font-family: "Inter";
     font-size: 16px;
     font-style: normal;
-    margin-right: 497px;
+    /* margin-right: 497px; */
+}
+
+@media screen and (max-width: 500px) {
+    footer{
+        color: rgb(40, 71, 173);
+        
+    }
 }
