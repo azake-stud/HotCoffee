@@ -39,4 +39,7 @@
     .main__img{
         display: none;
     }
+    .main__content{
+        margin-left: 5px;
+    }
 }

@@ -1,0 +1,15 @@
+.map{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.map__container{
+    display: flex;
+    justify-content: center;
+    
+    margin: 0 auto;
+    max-width: 765px;
+    max-height: 300px;
+}
+.map__content{
+    
+}

@@ -17,14 +17,14 @@
 }
 
 .img__balloon{
-    margin-top: 70px;
+    /* margin-top: 70px; */
     margin-bottom: 74px;
 }
 .hero__info{
     margin-top: 131px;
     position: relative;
-    height: 146px;
     z-index: -1;
+    max-width: 520px;
 }
 .hero__title{
     margin: 0;
