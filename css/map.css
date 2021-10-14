@@ -3,13 +3,20 @@
     margin-bottom: 50px;
 }
 .map__container{
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    
     margin: 0 auto;
-    max-width: 765px;
-    max-height: 300px;
+    min-width: 765px;
+    min-height: 300px; */
 }
 .map__content{
-    
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+.map__main {
+    width: 750px;
+    height: 300px;
 }
